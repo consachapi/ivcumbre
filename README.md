@@ -1,6 +1,6 @@
 # IVCumbre
 
-A new Flutter project.
+QR Scaner para la asistencia.
 
 ## Getting Started
 
@@ -15,4 +15,8 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-![Alt text](images/acceso.jpeg?raw=true "Title")
+![Alt text](images/acceso.jpeg?raw=true "Acceso")
+![Alt text](images/home.jpeg?raw=true "Home")
+![Alt text](images/scaneo.jpeg?raw=true "SCAN QR")
+![Alt text](images/registro.jpeg?raw=true "Registro de asistencia")
+![Alt text](images/card.jpeg?raw=true "Carnet de Pase al EVENTO")
