@@ -8,8 +8,8 @@ class ConfigPreferences {
   final String _anio = '2021';
   final String _ejec = '789';
   final bool _politica = false;
-  final String _oauth = 'http://oauth.regioncusco.gob.pe/auth/realms/sipac/protocol/openid-connect/token';
-  final String _api = 'http://sipac.regioncusco.gob.pe/api/ivcumbre';
+  final String _oauth = '';
+  final String _api = '';
 
   static final ConfigPreferences _instancia = new ConfigPreferences._internal();
 
